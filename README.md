@@ -1,6 +1,9 @@
 # Real-Time Stock Watcher
 
 A web application built with React and TypeScript that allows users to monitor stock prices in real-time. It uses WebSockets to receive live trade data from the Finnhub API and displays it through interactive cards and a dynamic chart.
+<div style="text-align: center;">
+<img width="600" height="941" alt="image" src="https://github.com/user-attachments/assets/fb0f6e80-6695-444a-b6fb-e00e206bc97d" />
+</div>
 
 ## Features
 
